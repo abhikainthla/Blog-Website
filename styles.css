@@ -1,0 +1,25 @@
+h2{
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 3px solid rgba(0, 0, 0,0.7);
+}
+.blog{
+    width: 30%;
+}
+p{
+    color: rgba(0,0,0,0.6);
+}
+body{
+    display: block;
+    margin: 8px;
+}
